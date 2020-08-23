@@ -42,7 +42,7 @@
   [<img align="left" alt="Angel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   [<img align="left" alt="Angel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="Angel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-  [<img align="left" alt="Angel | Instagram" width="22px" src="https://img2.freepng.es/20180624/ueg/kisspng-discord-logo-computer-servers-download-5b305fe94a5323.8721899515298969373045.jpg" />][DISCORD]
+  [<img align="left" alt="Angel | Instagram" width="22px" src="https://img2.freepng.es/20180701/fuo/kisspng-computer-icons-discord-font-5b3980a06adbd3.0979076715304951364377.jpg" />][DISCORD]
 
 <br />
 <br />
