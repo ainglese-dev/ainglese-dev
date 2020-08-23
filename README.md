@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with: Ansible, PyaTS, Netbox and APIs.
 - ⚡ Fun fact: Not an native english speaker, but I can spell Contratulazion very well.
 <br />
-<br />
 
 ---
 ### Achieved Certifications:
@@ -13,12 +12,10 @@
   [<img align="left" alt="CCNA Security" width="60px" src="https://images.youracclaim.com/size/110x110/images/23ae0d10-85d7-415a-a6c0-0e2919040628/cisco_ccna_security.png" />][CCNASec]
   [<img align="left" alt="CCNA" width="60px" src="https://images.youracclaim.com/size/110x110/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" />][CCNA]
 <br />
-<br />
 
 ---
 ### Next Goals:
   <img align="left" alt="HTML5" width="60px" src="https://images.youracclaim.com/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png" />
-<br />
 <br />
 
 ---
@@ -40,7 +37,6 @@
   [<img align="left" alt="Angel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   [<img align="left" alt="Angel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="Angel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
 <br />
 
 ---
