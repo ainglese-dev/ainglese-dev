@@ -1,4 +1,4 @@
-### Hi there MY name in Angel ! 👋
+### Hi there MY name is Angel ! 👋
 
 - 🔭 I’m currently working on Cisco CCNP ENARSI and CCNA DEVNET Certifications
 - 🌱 I’m currently learning a lot of things!
