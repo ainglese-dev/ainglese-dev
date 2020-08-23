@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on small projects
 - 🤔 I’m looking for help with: Ansible, PyaTS, Netbox and APIs.
 - ⚡ Fun fact: Not an native english speaker, but I can spell Contratulazion very well.
+
 ---
 <br />
 <br />
@@ -19,6 +20,7 @@
 
 ### Next Goals:
   <img align="left" alt="HTML5" width="100px" src="https://images.youracclaim.com/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png" />
+
 ---
 <br />
 <br />
@@ -32,6 +34,7 @@
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 ---
 <br />
 <br />
@@ -43,8 +46,6 @@
   [<img align="left" alt="Angel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="Angel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
   [<img align="left" alt="Angel | Instagram" width="26px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-discord-5.png" />][DISCORD]
-<br />
-<br />
 
 <!--
 **AngelIV23/AngelIV23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
