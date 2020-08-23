@@ -9,6 +9,7 @@
 <br />
 
 ### Achieved Certifications:
+
  [<img align="middle" alt="CCNP Security" width="100px" src="https://images.youracclaim.com/size/110x110/images/cd769843-4907-4d1a-9702-0512eb87ae6e/cisco_ccnp_security.png" />][CCNPSec]
  [<img align="middle" alt="CCNA Security" width="100px" src="https://images.youracclaim.com/size/110x110/images/23ae0d10-85d7-415a-a6c0-0e2919040628/cisco_ccna_security.png" />][CCNASec]
  [<img align="middle" alt="CCNA" width="100px" src="https://images.youracclaim.com/size/110x110/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" />][CCNA]
@@ -17,12 +18,13 @@
 <br />
 
 ### Next Goals:
-  <img align="left" alt="HTML5" width="100px" src="https://images.youracclaim.com/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png" />
 
+<img align="left" alt="HTML5" width="100px" src="https://images.youracclaim.com/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png" />
 <br />
 <br />
 
 ### Languages and Tools:
+
 <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
