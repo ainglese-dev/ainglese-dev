@@ -11,11 +11,13 @@
   [<img align="left" alt="CCNP Security" width="100px" src="https://images.youracclaim.com/size/110x110/images/cd769843-4907-4d1a-9702-0512eb87ae6e/cisco_ccnp_security.png" />][CCNPSec]
   [<img align="left" alt="CCNA Security" width="100px" src="https://images.youracclaim.com/size/110x110/images/23ae0d10-85d7-415a-a6c0-0e2919040628/cisco_ccna_security.png" />][CCNASec]
   [<img align="left" alt="CCNA" width="100px" src="https://images.youracclaim.com/size/110x110/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" />][CCNA]
+
 <br />
 <br />
 
 ### Next Goals:
   <img align="left" alt="HTML5" width="100px" src="https://images.youracclaim.com/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png" />
+
 <br />
 <br />
 
