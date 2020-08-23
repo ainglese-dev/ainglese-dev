@@ -42,6 +42,8 @@
   [<img align="left" alt="Angel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   [<img align="left" alt="Angel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="Angel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="left" alt="Angel | Instagram" width="22px" src="https://img2.freepng.es/20180624/ueg/kisspng-discord-logo-computer-servers-download-5b305fe94a5323.8721899515298969373045.jpg" />][DISCORD]
+
 <br />
 <br />
 
@@ -69,3 +71,4 @@ Here are some ideas to get you started:
 [CCNPSec]: https://www.youracclaim.com/badges/d71d512b-fcf6-4b97-8f8e-3fca90c6ad62/public_url
 [CCNASec]: https://www.youracclaim.com/badges/20fd1d35-4446-4af8-83e3-ad55d4889fe2/public_url
 [CCNA]: https://www.youracclaim.com/badges/075f0c5e-6248-4530-b936-8a23452695c8/public_url
+[DISCORD]: https://discord.gg/xGn5fQB
