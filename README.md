@@ -7,7 +7,7 @@
 <br />
 <br />
 
----
+====
 ### Achieved Certifications:
 <br />
 
@@ -17,7 +17,7 @@
 <br />
 <br />
 
----
+===
 ### Next Goals:
 <br />
 
