@@ -4,8 +4,6 @@
 - 👯 I’m looking to collaborate on small projects
 - 🤔 I’m looking for help with: Ansible, PyaTS, Netbox and APIs.
 - ⚡ Fun fact: Not an native english speaker, but I can spell Contratulazion very well.
-
-<br />
 <br />
 
 ### Achieved Certifications:
@@ -13,8 +11,6 @@
  [<img align="middle" alt="CCNP Security" width="100px" src="https://images.youracclaim.com/size/110x110/images/cd769843-4907-4d1a-9702-0512eb87ae6e/cisco_ccnp_security.png" />][CCNPSec]
  [<img align="middle" alt="CCNA Security" width="100px" src="https://images.youracclaim.com/size/110x110/images/23ae0d10-85d7-415a-a6c0-0e2919040628/cisco_ccna_security.png" />][CCNASec]
  [<img align="middle" alt="CCNA" width="100px" src="https://images.youracclaim.com/size/110x110/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" />][CCNA]
-
-<br />
 <br />
 
 ### Next Goals:
