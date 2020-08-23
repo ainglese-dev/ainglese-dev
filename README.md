@@ -1,5 +1,12 @@
 ### Hi there MY name in Angel ! 👋
 
+- 🔭 I’m currently working on Cisco CCNP ENARSI and CCNA DEVNET Certifications
+- 🌱 I’m currently learning a lot of things!
+- 👯 I’m looking to collaborate on small projects
+- 🤔 I’m looking for help with: Ansible, PyaTS, Netbox and APIs.
+- ⚡ Fun fact: Not an native english speaker, but I can spell Contratulazion very well.
+
+
 <!--
 **AngelIV23/AngelIV23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
