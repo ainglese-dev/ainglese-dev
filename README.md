@@ -60,4 +60,3 @@ Here are some ideas to get you started:
 [CCNPSec]: https://www.youracclaim.com/badges/d71d512b-fcf6-4b97-8f8e-3fca90c6ad62/public_url
 [CCNASec]: https://www.youracclaim.com/badges/20fd1d35-4446-4af8-83e3-ad55d4889fe2/public_url
 [CCNA]: https://www.youracclaim.com/badges/075f0c5e-6248-4530-b936-8a23452695c8/public_url
-[DISCORD]: https://discord.gg/xGn5fQB
