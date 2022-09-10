@@ -35,7 +35,6 @@
 [<img align="left" alt="Angel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Angel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Angel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Angel | Instagram" width="26px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-discord-5.png" />][DISCORD]
 
 <!--
 **AngelIV23/AngelIV23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
