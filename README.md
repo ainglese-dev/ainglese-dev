@@ -1,5 +1,5 @@
 ### Hi there my name is Angel ! 👋
-- 🔭 I’m currently working on Cisco CCNP ENARSI and CCNA DEVNET Certifications
+- 🔭 I’m currently working on Cisco CCNP DCCOR and CCNA DEVNET Certifications
 - 🌱 I’m currently learning a lot of things!
 - 👯 I’m looking to collaborate on small projects
 - 🤔 I’m looking for help with: Ansible, PyaTS, Netbox and APIs.
