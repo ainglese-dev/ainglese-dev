@@ -108,6 +108,7 @@ Meraki to Mindmaps: [![published](https://static.production.devnetcloud.com/code
 
 Cisco FMC Excel from API JSON: [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/AngelIV23/cisco-fmc-excel-from-json)  
   
+Meraki MS Access Policy cloner: [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ainglese-dev/meraki_ms_ap_cloner)
 
 <br/>  
 
